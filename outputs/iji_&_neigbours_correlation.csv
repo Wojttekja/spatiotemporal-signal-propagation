@@ -1,0 +1,6 @@
+,Mutation,neigh_interval_corr
+0,WT,-0.033
+1,AKT1_E17K,-0.195
+2,PIK3CA_E545K,0.027
+3,PIK3CA_H1047R,0.019
+4,PTEN_del,-0.057
